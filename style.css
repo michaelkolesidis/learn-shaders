@@ -7,6 +7,8 @@
   user-select: none;
   padding: 0;
   margin: 0;
+  color: #fff;
+  background: #000;
 }
 
 h1,
@@ -14,14 +16,10 @@ p {
   margin: 0.2em;
 }
 
-canvas {
-  margin-left: 0.2em;
-  margin-top: 0.2em;
-}
-
 #shaders {
   display: flex;
   flex-wrap: wrap;
+  margin: 0.2em;
 }
 
 a,
